@@ -30,7 +30,7 @@
 
 
    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=blue)
-   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=yellow)
+   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=peetch)
     
     
      
@@ -47,7 +47,7 @@
 
 
 
-  ![Vscode](https://img.shields.io/badge/Vscode-217346?style=for-the-badge&logo=microsoft-Vscode&logoColor=perple)
+  ![Vscode](https://img.shields.io/badge/Vscode-217346?style=for-the-badge&logo=microsoft-Vscode&logoColor=blue)
   ![Github](https://img.shields.io/badge/Github-217346?style=for-the-badge&logo=microsoft-Github&logoColor=black)
 
 
