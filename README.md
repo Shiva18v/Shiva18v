@@ -48,7 +48,7 @@
 
 
   ![Vscode](https://img.shields.io/badge/Vscode-217346?style=for-the-badge&logo=microsoft-Vscode&logoColor=white)
-    ![Github](https://img.shields.io/badge/Github-217346?style=for-the-badge&logo=microsoft-Github&logoColor=white)
+  ![Github](https://img.shields.io/badge/Github-217346?style=for-the-badge&logo=microsoft-Github&logoColor=white)
 
 
 
@@ -57,10 +57,10 @@
 
 
 
-   ![Python Numpy](https://img.shields.io/badge/Numpy-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![Python Pandas](https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![Python Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![Python Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+   ![Python Numpy](https://img.shields.io/badge/Numpy-3776AB?style=for-the-badge&logo=python&logoColor=blue)
+   ![Python Pandas](https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=python&logoColor=white)
+   ![Python Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+   ![Python Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </p>
 </div>
