@@ -29,8 +29,8 @@
 - **programing Languages**:
 
 
-   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=blue)
+   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=yellow)
     
     
      
@@ -39,16 +39,16 @@
 
 
 
-   ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
-    ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+   ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=yellow)
+   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=green)
 
 - **Other Tools**  
 
 
 
 
-  ![Vscode](https://img.shields.io/badge/Vscode-217346?style=for-the-badge&logo=microsoft-Vscode&logoColor=white)
-  ![Github](https://img.shields.io/badge/Github-217346?style=for-the-badge&logo=microsoft-Github&logoColor=white)
+  ![Vscode](https://img.shields.io/badge/Vscode-217346?style=for-the-badge&logo=microsoft-Vscode&logoColor=perple)
+  ![Github](https://img.shields.io/badge/Github-217346?style=for-the-badge&logo=microsoft-Github&logoColor=black)
 
 
 
@@ -57,10 +57,10 @@
 
 
 
-   ![Python Numpy](https://img.shields.io/badge/Numpy-3776AB?style=for-the-badge&logo=python&logoColor=blue)
-   ![Python Pandas](https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=python&logoColor=white)
+   ![Python Numpy](https://img.shields.io/badge/Numpy-3776AB?style=for-the-badge&logo=python&logoColor=green)
+   ![Python Pandas](https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=python&logoColor=red)
    ![Python Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-   ![Python Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+   ![Python Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=orange)
 
 </p>
 </div>
@@ -83,7 +83,7 @@
 
 <li>
 <a href="shivam2j2jkumar@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  shivam2j2j-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  shivam2j2jkumar@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
