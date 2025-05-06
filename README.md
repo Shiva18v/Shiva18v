@@ -5,6 +5,7 @@
 </p>
 
 <br>
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/WC8oc8aG3xgAAAAj/work-office.gif">
 
 ## **About me**
 
