@@ -105,4 +105,3 @@
 </div>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam)](https://github.com/shiva18v/github-readme-stats)
